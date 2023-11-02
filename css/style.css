@@ -267,7 +267,7 @@ h1,h2,h3,h4 {
 .section-service {
     padding-top: 225px;
     padding-bottom: 140px;
-    background: url(/media/services-back.png) center no-repeat;
+    background: url(../media/services-back.png) center no-repeat;
     background-size: cover;;
 }
 
@@ -335,7 +335,7 @@ h1,h2,h3,h4 {
 /* SECTION REVIEWS */
 
 .section-reviews {
-    background: url(/media/reviews-back.png);
+    background: url(../media/reviews-back.png);
     padding-bottom: 240px;
 }
 
@@ -561,7 +561,7 @@ h1,h2,h3,h4 {
 .section-blog {
     padding-top: 190px;
     padding-bottom: 190px;
-    background: url(/media/blog-back.png);
+    background: url(../media/blog-back.png);
 }
 
 .section-blog__title-containter {
